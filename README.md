@@ -1,4 +1,4 @@
-![Banner do Jogo]((https://thecombatcompany.com/cdn/shop/collections/How-many-Pokemon-cards-are-there.jpg?v=1715048651)
+![Banner do Jogo](https://thecombatcompany.com/cdn/shop/collections/How-many-Pokemon-cards-are-there.jpg)
 
 # 🃏 PokéDS - Pokémon TCG Simulator
 
